@@ -1,6 +1,6 @@
 '''
 首先下载安装模块sklearn
-其次安装 Graphviz（自行百度）
+其次安装 Graphviz（自行百度）可以看这个：http://blog.csdn.net/witnessai1/article/details/52923025
 最好在ipython nootbook 中查看图形
 '''
 from sklearn import tree  # 加载决策树
