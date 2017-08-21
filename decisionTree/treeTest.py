@@ -43,13 +43,6 @@ vecx = DictVectorizer()
 dummyX = vecx.fit_transform(xiguashujuList).toarray()  # 映射索引的array格式
 feature_names = vecx.get_feature_names()
 vecx.inverse_transform(dummyX)
-# 生成结果列表字典
-# vec = DictVectorizer()
-# for x in range(0, len(jieguoData)):
-#     xiguajieguoList.append(dict(zip(jieguoTital, jieguoData[x])))
-# dummyY = vec.fit_transform(xiguajieguoList).toarray()  # 映射索引
-# target_names = vec.get_feature_names()
-# vec.inverse_transform(dummyY)
 # 类别
 lb = preprocessing.LabelBinarizer()  # 数据处理，数值二分化处理
 dummyY1 = lb.fit_transform(jieguoData)
