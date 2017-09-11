@@ -26,7 +26,7 @@
 ```
 ***
 
-## [k-means ](https://github.com/a715506891/python-Machine-Learning/tree/master/decisionTree)
+## [k-means ](https://github.com/a715506891/python-Machine-Learning/tree/master/k-means)
 ```
 k均值计算
 ```
