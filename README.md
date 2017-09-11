@@ -37,3 +37,10 @@ k均值计算
 * 邮件(a715506891@163.com)
 * weixin: zhumengdedou
 ***
+name | age
+
+---- | ---
+
+LearnShare | 12
+
+Mike | 32
