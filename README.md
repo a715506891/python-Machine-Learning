@@ -6,8 +6,8 @@
 
 ## [linear model ](https://github.com/a715506891/python-Machine-Learning/tree/master/Linear%20model)
 ### 文件主记录回归算法
-    #### [线性回归](https://github.com/a715506891/python-Machine-Learning/blob/master/Linear%20model/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.py)
-    #### [多项式回归](https://github.com/a715506891/python-Machine-Learning/blob/master/Linear%20model/%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%9B%9E%E5%BD%92.py)
+#### [线性回归](https://github.com/a715506891/python-Machine-Learning/blob/master/Linear%20model/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.py)   
+#### [多项式回归](https://github.com/a715506891/python-Machine-Learning/blob/master/Linear%20model/%E5%A4%9A%E9%A1%B9%E5%BC%8F%E5%9B%9E%E5%BD%92.py)
 
 ## [decision tree](https://github.com/a715506891/python-Machine-Learning/tree/master/decisionTree)
 ```
