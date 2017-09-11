@@ -1,5 +1,5 @@
 
-![hello](E:\图片\5784bb4bcf272.gif)
+![hello](https://github.com/a715506891/python-Machine-Learning/blob/master/pic/aaa.jpg)
 # python-Machine-Learning
 学习python机器学习时算法代码的记录
 ***
