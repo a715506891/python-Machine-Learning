@@ -12,7 +12,7 @@
 
 记载决策树部分文件
 
-## Data dimensionality reduction 
+## [Data dimensionality reduction](https://github.com/a715506891/python-Machine-Learning/tree/master/Data%20dimensionality%20reduction)
 
 数据降维
 
