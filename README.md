@@ -1,7 +1,9 @@
 
 ![hello](https://github.com/a715506891/python-Machine-Learning/blob/master/pic/aaa.jpg)
 # python-Machine-Learning
+```
 学习python机器学习时算法代码的记录
+```
 ***
 
 ## [linear model ](https://github.com/a715506891/python-Machine-Learning/tree/master/Linear%20model)
