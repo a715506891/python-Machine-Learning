@@ -5,3 +5,4 @@
 linear model 文件主记录线性回归算法
 decision tree 记载决策树部分文件
 Data dimensionality reduction 数据降维
+k-means k均值计算
