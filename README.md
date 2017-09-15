@@ -1,6 +1,6 @@
 
 ![hello](https://github.com/a715506891/python-Machine-Learning/blob/master/pic/aaa.jpg)
-# python-Machine-Learning
+### python-Machine-Learning
 ```
 学习python机器学习时算法代码的记录。部分自己参考内容。
 ```
@@ -10,11 +10,12 @@
 ```
 文件主要记录各种聚类算法，及实例。
 ```
-### [层次聚类](https://github.com/a715506891/python-Machine-Learning/blob/master/Clustering/AgglomerativeClustering.py)
-### [密度聚类](https://github.com/a715506891/python-Machine-Learning/blob/master/Clustering/DBSCAN.py)
-### [高斯混合聚类](https://github.com/a715506891/python-Machine-Learning/blob/master/Clustering/GMM.py)
-### [k均值聚类](https://github.com/a715506891/python-Machine-Learning/blob/master/Clustering/k-means.py)
-### [k均值实例](https://github.com/a715506891/python-Machine-Learning/blob/master/Clustering/k%E5%9D%87%E5%80%BC%E5%AE%9E%E4%BE%8B.py)
+# [层次聚类](https://github.com/a715506891/python-Machine-Learning/blob/master/Clustering/AgglomerativeClustering.py)
+# [密度聚类](https://github.com/a715506891/python-Machine-Learning/blob/master/Clustering/DBSCAN.py)
+# [高斯混合聚类](https://github.com/a715506891/python-Machine-Learning/blob/master/Clustering/GMM.py)
+# [k均值聚类](https://github.com/a715506891/python-Machine-Learning/blob/master/Clustering/k-means.py)
+# [k均值实例](https://github.com/a715506891/python-Machine-Learning/blob/master/Clustering/k%E5%9D%87%E5%80%BC%E5%AE%9E%E4%BE%8B.py)
+***
 
 ## [linear model ](https://github.com/a715506891/python-Machine-Learning/tree/master/Linear%20model)
 ```
