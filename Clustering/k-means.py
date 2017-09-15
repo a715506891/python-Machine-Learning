@@ -1,4 +1,4 @@
-# 层次聚类
+#k均值聚类
 #按照数据间的距离分类
 from sklearn.metrics import adjusted_rand_score
 from sklearn import cluster
