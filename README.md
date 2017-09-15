@@ -1,5 +1,3 @@
-
-![hello](https://github.com/a715506891/python-Machine-Learning/blob/master/pic/aaa.jpg)
 ## python-Machine-Learning
 ```
 学习python机器学习时算法代码的记录。部分自己参考内容。
@@ -42,4 +40,4 @@
 >在查看中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 * 邮件(a715506891@163.com)
 ***
-
+![hello](https://github.com/a715506891/python-Machine-Learning/blob/master/pic/aaa.jpg)
