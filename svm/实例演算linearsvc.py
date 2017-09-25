@@ -1,3 +1,4 @@
+# 线性分类SVM
 from sklearn.datasets.samples_generator import make_blobs
 import matplotlib.pyplot as plt
 import numpy as np
